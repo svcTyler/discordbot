@@ -1,1 +1,1 @@
-worker: python red.py
+bot: python red.py
